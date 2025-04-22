@@ -30,3 +30,7 @@ chmod +x salon.sh
 
 # 4. Run the application
 ./salon.sh
+```
+
+## 📜 Certification
+Part of freeCodeCamp's Relational Database Course
