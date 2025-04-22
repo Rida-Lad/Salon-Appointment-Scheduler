@@ -19,7 +19,7 @@ A PostgreSQL-backed Bash application for managing salon appointments and custome
 ## 🚀 Quick Setup
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/salon-scheduler.git
+git clone https://github.com/Rida-Lad/salon-scheduler.git
 cd salon-scheduler
 
 # 2. Import the database
